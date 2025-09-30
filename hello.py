@@ -1,4 +1,4 @@
-print ("Nigga heil Hitler ")
+print ("Hello")
 
 def add (a,b){
     return a + b
